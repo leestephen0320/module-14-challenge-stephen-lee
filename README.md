@@ -58,4 +58,10 @@ Click on edit on any pre-existing ticket on the kanban board. Set ticket name, t
 Distributed under the MIT License.
 
 ## Tests
-Press + to save a candidate. Then navigate to the potential candidates page to see that the user was saved. Then press - to remove them form the table.
+To login, please use one of the following set of usernames and passwords.
+
+| Username     | Password |
+| ------------ | -------- |
+| JollyGuru    | password |
+| SunnyScribe  | password |
+| RadiantComet | password |
